@@ -8,7 +8,6 @@ public class Main {
         System.out.println("Start");
         String name = "NYC_MANHATTAN_SALES";
         CreateTable.create(name);
-
     }
 
 
