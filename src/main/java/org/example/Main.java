@@ -9,6 +9,4 @@ public class Main {
         String name = "NYC_MANHATTAN_SALES";
         CreateTable.create(name);
     }
-
-
 }
